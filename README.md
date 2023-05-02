@@ -1,6 +1,13 @@
 # Pharmacodynamics of Parkinson's Disease Dopamine Replacement Therapy (DRT)
 CSYS395 - Computational Systems Biology Final Project
 
+AlphFold_Figures.pynb contains python script to 
+
+
+
+
+
+
 **Abstract**:
 
 Parkinson’s Disease (PD) is one of the most prevalent neurodegenerative diseases across the world causing a disruption in motor function. Although generally asymptomatic in early stages, progression of the disease leads to accumulation of motor dysfunction including bradykinesia, tremors, muscle stiffness, and more. There are currently no cures, but pathology of PD is mostly understood. Neurodegeneration of cells in the substantia nigra region of the brain causes loss of dopamine-producing neurons. Furthermore, neurons of the substantia nigra lose the ability to communicate with neurons of the basal ganglia, resulting in the loss of motor function. The gold standard of treatment is dopamine replacement therapy (DRT), which uses the precursor molecule levodopa (L-dopa) to be synthesized into dopamine. The main problem with DRT is the variability among patient responses to treatment. Furthermore, the side effects of treatment can be too adverse for a patient to continue treatment. This can largely be attributed to misprocessing of L-dopa by the host’s metabolome. Thus, it is crucial to understand the pharmacodynamic landscape of L-dopa and further elucidate the dynamical processes intervening in the delivery of levodopa into the substantia nigra. A multiscale pharmacodynamic analysis of various steps in the levodopa pathway were implemented. Models included comparisons of Rytary and Sinemet (brands of carbidopa/levodopa), selegiline inhibitor models, and dopamine biosynthesis models. Results indicate that the pharmacodynamics of levodopa and related enzymatic reactions can be visualized, quantified, and compared on a relative basis, with the potential to more precisely simulate physiological processes with the addition of experimental data. These findings, although generalized, may help optimize dosing regimens of L-dopa treatments for patients with Parkinson’s Disease.
