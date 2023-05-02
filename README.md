@@ -1,7 +1,7 @@
 # Pharmacodynamics of Parkinson's Disease Dopamine Replacement Therapy (DRT)
 CSYS395 - Computational Systems Biology Final Project
 
-AlphFold_Figures.pynb contains python script to 
+AlphFold_Figures.ipynb contains python script to generate predictive 3D structures for proteins of interest (Figure 2).
 
 
 
