@@ -15,11 +15,11 @@ By modeling the pharmacodynamics of L-dopa absorption, we can understand the eff
 **Figure 1. Simplified pharmacokinetic landscape of L-dopa passing the blood brain barrier (BBB).** In the PNS, carbidopa inhibits the decarboxylase activity from the AADC enzyme, preventing the premature conversion of the precursor molecule to dopamine. This allows the transfer of L-dopa across the BBB, where it is converted into dopamine by other decarboxylases. MAO-B enzymes function to mark dopamine for degradation, but selegiline inhibits MAO-B molecules. Thus, dopamine accumulates and begins relieving some of the motor function distress in the patient.
 
 
-<img width="300" alt="COMT" src="https://user-images.githubusercontent.com/64609764/235642464-d0602ee6-7a87-4153-a056-cdcfb8fdb98a.png">
-<img width="300" alt="DDC" src="https://user-images.githubusercontent.com/64609764/235642490-38c9c4c9-82d6-402e-94d3-e64bf956100d.png">
-<img width="319" alt="MAO-B" src="https://user-images.githubusercontent.com/64609764/235642503-141b0bc2-a063-4086-ab7e-f23cde5c65b1.png">
+**A**<img width="300" alt="COMT" src="https://user-images.githubusercontent.com/64609764/235642464-d0602ee6-7a87-4153-a056-cdcfb8fdb98a.png">
+**B**<img width="300" alt="DDC" src="https://user-images.githubusercontent.com/64609764/235642490-38c9c4c9-82d6-402e-94d3-e64bf956100d.png">
+**C**<img width="319" alt="MAO-B" src="https://user-images.githubusercontent.com/64609764/235642503-141b0bc2-a063-4086-ab7e-f23cde5c65b1.png">
 
-**Figure 2. AlphaFold representations of COMT, DDC, and MAO-B proteins show structures mainly composed of alpha helices.** The alpha helices form string-like arms, which may highlight each protein's ability to bind to dopamine directly, or its precursor protein L-Dopa (for DDC). Interestingly, AlphaFolds prediction of COMT’s structure is low in comparison to DDC and MAO-B. Proteins imported from the .pdb files from the RCSB Protein Data Bank using Biopython v1.75. The following Protein Data Bank Structures were used: 1GOS (MAO-B); 1JS2 (DDC); 3BWM (COMT). 
+**Figure 2. AlphaFold representations of COMT (A), DDC (B), and MAO-B (C) proteins show structures mainly composed of alpha helices.** The alpha helices form string-like arms, which may highlight each protein's ability to bind to dopamine directly, or its precursor protein L-Dopa (for DDC). Interestingly, AlphaFolds prediction of COMT’s structure is low in comparison to DDC and MAO-B. Proteins imported from the .pdb files from the RCSB Protein Data Bank using Biopython v1.75. The following Protein Data Bank Structures were used: 1GOS (MAO-B); 1JS2 (DDC); 3BWM (COMT). 
 
 
 
