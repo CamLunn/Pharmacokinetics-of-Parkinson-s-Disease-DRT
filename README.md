@@ -5,8 +5,10 @@ CSYS395 - Computational Systems Biology Final Project
 **Contents**: 
 - AlphaFold_Figures.ipynb contains python script to generate predictive 3D structures for proteins of interest (Figure 2).
 - .pdb files are the protein databank files imported by AlphaFold_Figures.ipynb
-- CSYS395_Parkinson's_Final_Project_lunn_wright.pptx file is the powerpoint presentation
-- CSYS395_Final_Project_Writeup_lunn_wright.pdf file is the official writeup
+- Rytary_Dynamics.m: matlab file used to simulate dynamics of Rytary. Shows dosing regimen and levodopa levels in the periphery and central nervous system for Rytary
+- Sinemet_Dynamics.m: script to simulate dynamics of Sinemet. Shows dosing regimen and levodopa levels in the periphery and central nervous system for Sinemet.
+- CSYS395_Parkinson's_Final_Project_lunn_wright.pptx file is the powerpoint presentation.
+- CSYS395_Final_Project_Writeup_lunn_wright.pdf file is the official writeup.
 
 
 **Abstract**:
