@@ -5,8 +5,11 @@ CSYS395 - Computational Systems Biology Final Project
 **Contents**: 
 - **AlphaFold_Figures.ipynb** contains python script to generate predictive 3D structures for proteins of interest (Figure 2).
 - **.pdb** files are the protein databank files imported by AlphaFold_Figures.ipynb
-- **Rytary_Dynamics.m**: matlab file used to simulate dynamics of Rytary. Shows dosing regimen and levodopa levels in the periphery and central nervous system for Rytary (Figure 3 & 6).
-- **Sinemet_Dynamics.m**: script to simulate dynamics of Sinemet. Shows dosing regimen and levodopa levels in the periphery and central nervous system for Sinemet (Figure 3 & 7).
+- **Rytary_Dynamics.m**: matlab file used to simulate dynamics of Rytary. Shows dosing regimen and levodopa levels in the periphery and central nervous system for Rytary (*Figure 3 & 6*).
+- **Sinemet_Dynamics.m**: script to simulate dynamics of Sinemet. Shows dosing regimen and levodopa levels in the periphery and central nervous system for Sinemet (*Figure 3 & 7*).
+- **Rytary_and_Sinemet.m**: script to simulate dynamics of Sinemet & Rytary together. See attached 'Supplementary Information.docx' to overlay them as seen in *Figure 8*. 
+- **Carbidopa.m**: script to simulate conversion of levodopa to dopamine, with and without carbidopa (*Figure 5*).
+- **Entacapone.m**: script to Enzymatic reaction of levodopa, MAO-B, and MAO-B inhibitor (Selegiline) (*Figure 4*).
 - **CSYS395_Parkinson's_Final_Project_lunn_wright.pptx** file is the powerpoint presentation.
 - **CSYS395_Final_Project_Writeup_lunn_wright.pdf** file is the official writeup.
 
