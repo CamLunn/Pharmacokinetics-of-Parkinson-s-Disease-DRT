@@ -22,8 +22,7 @@ Parkinson’s Disease (PD) is one of the most prevalent neurodegenerative diseas
 
 By modeling the pharmacodynamics of L-dopa absorption, we can understand the effects of differing dosage regimens on the rate of absorption. For model simplicity, only selegiline, carbidopa, and levodopa are considered. Figure 1 depicts the relationship between these three drugs.
 
-![Visualization of Pharmacokinetics](https://user-images.githubusercontent.com/64609764/235633275-d15615ee-b550-40ac-8137-218375d82565.png)
-
+![COMT Inclusion](https://user-images.githubusercontent.com/64609764/236236629-76d4fed7-5e79-47c7-a1ef-7611515900a7.png)
 
 **Figure 1. Simplified pharmacokinetic landscape of L-dopa passing the blood brain barrier (BBB).** In the PNS, carbidopa inhibits the decarboxylase activity from the AADC enzyme, preventing the premature conversion of the precursor molecule to dopamine. This allows the transfer of L-dopa across the BBB, where it is converted into dopamine by other decarboxylases. MAO-B enzymes function to mark dopamine for degradation, but selegiline inhibits MAO-B molecules. Thus, dopamine accumulates and begins relieving some of the motor function distress in the patient.
 
