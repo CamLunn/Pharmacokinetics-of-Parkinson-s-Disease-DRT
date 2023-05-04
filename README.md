@@ -24,7 +24,7 @@ By modeling the pharmacodynamics of L-dopa absorption, we can understand the eff
 
 ![COMT Inclusion](https://user-images.githubusercontent.com/64609764/236236629-76d4fed7-5e79-47c7-a1ef-7611515900a7.png)
 
-**Figure 1. Simplified pharmacokinetic landscape of L-dopa passing the blood brain barrier (BBB).** In the PNS, carbidopa inhibits the decarboxylase activity from the AADC enzyme, preventing the premature conversion of the precursor molecule to dopamine. This allows the transfer of L-dopa across the BBB, where it is converted into dopamine by other decarboxylases. COMT enzymes function to modify methyl groups of L-dopa, thus prematurely deactivating and degrading the dopamine precursor. As such, Entacapone is administered to inhibit COMT’s degradative activity, allowing L-dopa to cross the BBB. Dopamine accumulates and begins relieving some of the motor function distress in the patient.
+**Figure 1. Simplified pharmacokinetic landscape of L-dopa passing the blood brain barrier (BBB).** In the PNS, carbidopa inhibits the decarboxylase activity from the AADC enzyme, preventing the premature conversion of the precursor molecule to dopamine. This allows the transfer of L-dopa across the BBB, where it is converted into dopamine by other decarboxylases. COMT enzymes function to modify methyl groups of L-dopa, thus prematurely deactivating and degrading the dopamine precursor. As such, Entacapone is administered to inhibit COMT’s degradative activity, allowing L-dopa to cross the BBB. Dopamine accumulates and begins relieving some of the motor function distress in the patient. *Figure created in biorender.*
 
 
 **A**<img width="300" alt="COMT" src="https://user-images.githubusercontent.com/64609764/235642464-d0602ee6-7a87-4153-a056-cdcfb8fdb98a.png">
