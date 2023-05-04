@@ -12,7 +12,7 @@ CSYS395 - Computational Systems Biology Final Project
 - **Entacapone.m**: script to simulate enzymatic reaction of levodopa, COMT and COMT inhibitor (Entacapone) (*Figure 4*).
 - **CSYS395_Parkinson's_Final_Project_lunn_wright.pptx** file is the powerpoint presentation.
 - **CSYS395_Final_Project_Writeup_lunn_wright.pdf** file is the official writeup.
-
+- **Supplementary Information.docx**: A detailed appendix containing parameter definitions used in MATLAB's Simbiology simulations.
 
 **Abstract**:
 
